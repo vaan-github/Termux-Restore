@@ -18,8 +18,8 @@ pkg install nodejs -y && \
 apt install git curl wget -y && \
 cd ~/ && \
 git clone https://github.com/Ja7ad/W3Schools && \
-mkdir -p ~/shortcuts && \
-cd ~/shortcuts && \
+mkdir -p ~/.shortcuts && \
+cd ~/.shortcuts && \
 echo 'clear && cd ~/W3Schools && termux-open-url http://localhost:8080 && python -m http.server 8080 && clear && exit 0' > w3school.sh && \
 chmod +x w3school.sh && \
 cd ~/ && \
