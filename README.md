@@ -6,4 +6,7 @@ https://app.dub.co/github-link
 
 #RUN THIS CMD IN THE TERMINAL AND SETUP YOUR TERMUX
 
+[![Copy Code](https://img.shields.io/badge/📋-Copy%20Code-blue?style=for-the-badge)](#)
+
+```js
 bash -c "$(curl -fsSL https://git.new/termux-restore)"
