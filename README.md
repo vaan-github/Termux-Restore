@@ -7,4 +7,4 @@ https://app.dub.co/github-link
 #RUN THIS CMD IN THE TERMINAL AND SETUP YOUR TERMUX
 
 ```js
-bash -c "$(curl -fsSL https://git.new/termux-restore)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/vaan-github/Termux-Restore/main/restoreTermux/restoreTermux.sh)"
