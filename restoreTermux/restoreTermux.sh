@@ -1,4 +1,4 @@
-     ####### RESTORE COMMAND ########
+#!/usr/bin/env bash
 
 termux-change-repo && \
 pkg install root-repo -y && \
